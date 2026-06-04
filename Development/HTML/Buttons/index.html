@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Buttons Practice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #f0f2f5;
+        }
+        .button-container { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; }
+        .btn-default {
+            padding: 10px 24px; font-size: 16px;
+            border: 2px solid #333; background-color: white;
+            color: #333; border-radius: 4px; cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .btn-default:hover { background-color: #333; color: white; }
+        .btn-primary {
+            padding: 10px 24px; font-size: 16px;
+            border: none; background-color: #0070f3;
+            color: white; border-radius: 4px; cursor: pointer;
+            transition: background-color 0.2s ease;
+        }
+        .btn-primary:hover { background-color: #0051b3; }
+        .btn-disabled {
+            padding: 10px 24px; font-size: 16px;
+            border: none; background-color: #cccccc;
+            color: #666666; border-radius: 4px; cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML Buttons - Day 1 Practice</h1>
+    <p>Three button variants: default, primary, disabled</p>
+
+    <div class="button-container">
+        <button type="button" class="btn-default">Default Button</button>
+        <button type="button" class="btn-primary">Primary Button</button>
+        <button type="button" class="btn-disabled" disabled>Disabled Button</button>
+    </div>
+
+    <br><br>
+    <form onsubmit="alert('Submitted!'); return false;">
+        <input type="text" placeholder="Type something..." style="padding: 8px; margin-right: 10px;">
+        <button type="submit" class="btn-primary">Submit</button>
+        <button type="reset" class="btn-default" style="margin-left: 10px;">Reset</button>
+    </form>
+</body>
+</html>
