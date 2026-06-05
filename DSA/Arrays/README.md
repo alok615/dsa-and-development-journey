@@ -11,6 +11,9 @@
 | 1 | Largest Element in Array | GeeksforGeeks | Easy | largest-element.cpp | 04-06-2026 |
 | 2 | Second Largest Element | GeeksforGeeks | Easy | second-largest.cpp | 04-06-2026 |
 | 3 | Move Zeros to End | LeetCode | Easy | move-zeros.cpp | 04-06-2026 |
+| 4 | Remove duplicate | LeetCode | Easy | day2.cpp | 05-06-2026 |
+| 5 | Check array is sorted or not | LeetCode | Easy | day2.cpp | 05-06-2026 |
+
 
 ---
 
