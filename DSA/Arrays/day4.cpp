@@ -1,0 +1,15 @@
+//Move All Zeroes to End
+class Solution {
+  public:
+    void pushZerosToEnd(vector<int>& arr) {
+        // code here
+        int i=0;
+        //int j=arr[1];
+        for(int j=0;j<arr.size();j++){
+            if(arr[j]!=0){
+                swap(arr[i],arr[j]);
+                i++;
+            }
+        }
+    }
+};
