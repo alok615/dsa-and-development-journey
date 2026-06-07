@@ -14,6 +14,7 @@
 | 4 | Remove duplicate | LeetCode | Easy | day2.cpp | 05-06-2026 |
 | 5 | Check array is sorted or not | LeetCode | Easy | day2.cpp | 05-06-2026 |
 | 6 | rotate the array | LeetCode | Easy | day2.cpp | 06-06-2026 |
+| 7 | Move All Zeroes to End | LeetCode | Easy | day2.cpp | 07-06-2026 |
 
 
 ---
