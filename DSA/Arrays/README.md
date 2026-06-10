@@ -17,6 +17,7 @@
 | 7 | Move All Zeroes to End | LeetCode | Easy | day2.cpp | 07-06-2026 |
 | 8 | Linear Search | LeetCode | Easy | day2.cpp | 08-06-2026 |
 | 9 | Find the intersection of two sorted arrays. | LeetCode | Easy | day2.cpp | 09-06-2026 |
+| 10 | Find the repeating and missing numbers | LeetCode | Easy | day2.cpp | 10-06-2026 |
 
 
 ---
