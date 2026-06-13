@@ -12,12 +12,15 @@
 | 2 | Second Largest Element | GeeksforGeeks | Easy | second-largest.cpp | 04-06-2026 |
 | 3 | Move Zeros to End | LeetCode | Easy | move-zeros.cpp | 04-06-2026 |
 | 4 | Remove duplicate | LeetCode | Easy | day2.cpp | 05-06-2026 |
-| 5 | Check array is sorted or not | LeetCode | Easy | day2.cpp | 05-06-2026 |
-| 6 | rotate the array | LeetCode | Easy | day2.cpp | 06-06-2026 |
-| 7 | Move All Zeroes to End | LeetCode | Easy | day2.cpp | 07-06-2026 |
-| 8 | Linear Search | LeetCode | Easy | day2.cpp | 08-06-2026 |
-| 9 | Find the intersection of two sorted arrays. | LeetCode | Easy | day2.cpp | 09-06-2026 |
-| 10 | Find the repeating and missing numbers | LeetCode | Easy | day2.cpp | 10-06-2026 |
+| 5 | Check array is sorted or not | LeetCode | Easy | day5.cpp | 05-06-2026 |
+| 6 | rotate the array | LeetCode | Easy | day6.cpp | 06-06-2026 |
+| 7 | Move All Zeroes to End | LeetCode | Easy | day6.cpp | 07-06-2026 |
+| 8 | Linear Search | LeetCode | Easy | day7.cpp | 08-06-2026 |
+| 9 | Find the intersection of two sorted arrays. | LeetCode | Easy | day7.cpp | 09-06-2026 |
+| 10 | Find the repeating and missing numbers | LeetCode | Easy | day8.cpp | 10-06-2026 |
+| 11 | Maximize Number of 1's | LeetCode | Easy | day9.cpp | 13-06-2026 |
+| 12 | Find the Missing Number | LeetCode | Easy | day9.cpp | 13-06-2026 |
+| 13 | Unique Number I | LeetCode | Easy | day9.cpp | 13-06-2026 |
 
 
 ---
